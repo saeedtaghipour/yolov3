@@ -2,4 +2,4 @@ classes= 1
 train  =/content/gdrive/My Drive/sa/darknet/train.txt
 valid = /content/gdrive/My Drive/sa/darknet/train.txt
 names = /content/gdrive/My Drive/sa/darknet/obj.names
-backup =/content/gdrive/My Drive/sa/backup/
+backup =/content/gdrive/My Drive/sa//darknet/backup/
