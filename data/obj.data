@@ -2,4 +2,4 @@ classes= 1
 train  =/content/yolov3/data/train.txt
 valid = /content/yolov3/data/train.txt
 names = /content/gdrive/My Drive/sa/darknet/obj.names
-backup =/content/gdrive/My Drive/sa/darknet/backup/
+backup =/content/gdrive/My Drive/sa/darknet//backup/
