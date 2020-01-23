@@ -1,5 +1,0 @@
-classes= 5
-train  = /content/yolov3/data/train.txt
-valid  = /content/yolov3/data/test.txt
-names = /content/gdrive/My Drive/darknet/obj.names
-backup = /content/gdrive/My Drive/darknet/backup
